@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\hudso\OneDrive\Área de Trabalho\tudo\Faculdade\3º Periodo\SIN 141 - Computação Orientada a Objetos\pac man\funçoes.h(88,16): warning C4267: 'inicializando': conversão de 'size_t' para 'int', possível perda de dados
+C:\Users\hudso\OneDrive\Área de Trabalho\tudo\Faculdade\3º Periodo\SIN 141 - Computação Orientada a Objetos\pac man\funçoes.h(89,16): warning C4267: 'inicializando': conversão de 'size_t' para 'int', possível perda de dados
+  pac man.vcxproj -> C:\Users\hudso\OneDrive\Área de Trabalho\tudo\Faculdade\3º Periodo\SIN 141 - Computação Orientada a Objetos\pac man\x64\Debug\pac man.exe

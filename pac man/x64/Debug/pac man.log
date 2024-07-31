@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\hudso\Desktop\Tudo\Faculdade\3º Periodo\SIN 141 - Computação Orientada a Objetos\Pac-Craft-oo\funcoes.h(88,16): warning C4267: 'inicializando': conversão de 'size_t' para 'int', possível perda de dados
+C:\Users\hudso\Desktop\Tudo\Faculdade\3º Periodo\SIN 141 - Computação Orientada a Objetos\Pac-Craft-oo\funcoes.h(89,16): warning C4267: 'inicializando': conversão de 'size_t' para 'int', possível perda de dados
+  pac man.vcxproj -> C:\Users\hudso\Desktop\Tudo\Faculdade\3º Periodo\SIN 141 - Computação Orientada a Objetos\Pac-Craft-oo\x64\Debug\pac man.exe
